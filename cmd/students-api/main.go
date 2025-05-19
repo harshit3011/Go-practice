@@ -3,5 +3,5 @@
  import "fmt"
 
  func main(){
-	fmt.Println("Welcome to students ap i")
+	fmt.Println("Welcome to students api")
  }
